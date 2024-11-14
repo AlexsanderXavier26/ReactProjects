@@ -31,10 +31,14 @@ Ensure you have the following installed:
    git clone https://github.com/yourusername/tracking-truck.git
 2.Navigate to the project folder:
 cd tracking-truck
+
 3.Install dependencies:
 npm install
+
 4.Start the development server:
 npm start
+
+5.Open the browser and search: https://2m9p89-3000.csb.app/
 
 ##Usage
 Add a Truck: Enter the truck details, including ID, brand, model, and license plate, then click Add Truck.
